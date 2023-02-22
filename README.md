@@ -1,2 +1,2 @@
-# -Diaspora-Kitchen
-Culinary Event's
+DiasporaKitchen
+
